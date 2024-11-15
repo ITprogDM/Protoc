@@ -1,3 +1,3 @@
-module https://github.com/ITprogDM/Protoc
+module github.com/ITprogDM/Protos
 
 go 1.22
